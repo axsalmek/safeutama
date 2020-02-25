@@ -28,7 +28,7 @@ if(x=="4"){xxx="/2019/12/know-causes-of-old-menstruation-and-how.html"}
 if(x=="5"){xxx="/2019/12/how-to-choose-sports-that-are-good-and.html"}
 if(x=="6"){xxx="/2020/01/harus-tahu-ini-ini-pertolongan-pertama.htmll"}
 if(x=="7"){xxx="/2020/01/15-benefits-of-ginger-for-health-and.html"}
-if(x=="8"){xxx="/2020/02/10-game-yang-lagi-populer-2020.html"}a_to_ve[i].href="https://www.aksurance.me/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="8"){xxx="/2020/02/10-game-yang-lagi-populer-2020.html"}a_to_ve[i].href="https://kyasafel.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
