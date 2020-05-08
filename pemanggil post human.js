@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="/2019/12/8-tips-pemasaran-digital-untuk.html"}
 if(x=="2"){xxx="/2019/12/bekerja-di-rumah-bisa-menjadi-bisnis.html"}
 if(x=="3"){xxx="/2019/12/7-makanan-terbaik-untuk-paru-paru-yang.html"}
-if(x=="4"){xxx="/2019/12/know-causes-of-old-menstruation-and-how.html"}
+if(x=="4"){xxx="/2020/03/perbedaan-antara-oppo-f9-dan-vivo-v11.html"}
 if(x=="5"){xxx="/2019/12/how-to-choose-sports-that-are-good-and.html"}
 if(x=="6"){xxx="/2020/01/harus-tahu-ini-ini-pertolongan-pertama.htmll"}
 if(x=="7"){xxx="/2020/01/15-benefits-of-ginger-for-health-and.html"}
