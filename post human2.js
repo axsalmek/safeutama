@@ -121,7 +121,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://kyasafel.blogspot.com/2019/12/bekerja-di-rumah-bisa-menjadi-bisnis.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://www.trendingworld.xyz/2021/10/how-to-deal-with-dry-lips.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
