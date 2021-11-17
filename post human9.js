@@ -121,7 +121,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://kyasafel.blogspot.com/2020/03/perbedaan-antara-oppo-f9-dan-vivo-v11.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://trendingworld.xyz/your-underarms-smell-so-bad/?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
